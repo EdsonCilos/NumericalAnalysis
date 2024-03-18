@@ -1,6 +1,6 @@
 @testset "Test Round Arithmetics" begin
 
-    #Exercise 1
+    #Exercise 1_6
     atol = 1e-8
 
     value = (13/14 - 6/7) / (2*exp(1) - 5.4)
